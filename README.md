@@ -4,9 +4,11 @@ This project discussed how quickly it detects damage of boiler tube used in the 
 
 It is important to prevent large financial losses.
 
-If the the thermal power plant is stoped to repair the boiler tubes, 700 million won will be lost per day based on the 500MW power plant.
+If the the thermal power plant is stoped to overhaul the boiler tubes, 700 million won will be lost per day based on the 500MW power plant.
 
 So, we developed the CNN Bi LSTM model that detects boiler tube leak 10 days early.
+
+As a result, we concluded that the boiler tube can be repaired without overhaul if this model is used.
 
 We used CNN Bi LSTM Model, one of the deep learnig model, to detect bolier tube leak early.
 
